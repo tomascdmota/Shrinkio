@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shrinkio</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="register">Register</string>
+    <string name="are_you_new_register">Are you new? Register</string>
+    <string name="post">Post</string>
+    <string name="chat">Chat</string>
+    <string name="main_page">Main Page</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="notifications">Notifications</string>
+    <string name="messages">Messages</string>
+</resources>
